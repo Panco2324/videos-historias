@@ -13,3 +13,9 @@ Antes de producir, lee este archivo. Después de programar, agrega una entrada.
 
 ## Bloqueado hasta el 2026-11-27
 Todo lo anterior: clips de avión en cielo gris, relámpagos, selva/cascada/arroyo, abordaje, videocámara; y las animaciones de avión, rayo, asiento cayendo, pase de abordar y cámara de cine.
+
+## Hecho el 2026-11-13 (pendiente de fecha de publicación) — Victor Lustig vendió la Torre Eiffel
+- Clips (Pexels): Torre Eiffel de día en contrapicado (19093288, K), sendero hacia la torre (34602647, Fernanda Aguirre), torre vista desde dentro (36154964, Melike), hombre leyendo periódico en bar (9564065, MART PRODUCTION), lobby del Párisi Udvar (34868195, Airam Dato-on), lobby veneciano (35605168, Daniel Shepherd), garra de chatarrería (12469953, Fakher Zibari), manos contando billetes (6326861, Kaboompics), tren de vapor en estación (34458714, David Pickup), puente del Sena (32838445, BAE JUN), torre iluminada desde abajo (34704929, Nicola Narracci).
+- Animaciones y tarjetas: cartel colgante "SE VENDE", sello "×2", título "PARÍS 1925", caballero con sombrero y monóculo, portada de diario, bombilla "UNA LOCURA", carta oficial con firma y lacre, cinco estrellas y placa de suite, sobres en abanico con cinta "REUNIÓN SECRETA", torre que se desarma con etiqueta "CHATARRA", check verde "LE CREYÓ", billetes cayendo "¡PAGADO!", mapa París–Viena con maleta, cara con cremallera "NUNCA LO DENUNCIÓ", flecha de regreso, pregunta final con banda "SÍGUEME" y campana.
+- Paleta: noche azul-morado, crema, rojo y dorado.
+- Bloqueado 14 días desde su publicación.
