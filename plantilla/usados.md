@@ -42,3 +42,11 @@ Todo lo anterior: clips de avión en cielo gris, relámpagos, selva/cascada/arro
 - Paleta: tierra oscura, ocre, rojo, crema, khaki y amarillo #ffc629; fuentes Oswald, Montserrat, Space Mono.
 - Portada Canva: «PERDIÓ CONTRA PÁJAROS 1932» con emú sobre tierra roja.
 - Bloqueado hasta el 2026-11-30 (no repetir clips, animaciones ni tema animales/Australia en el siguiente Short).
+
+## 2026-11-18 — Stanislav Petrov y la falsa alarma nuclear (URSS, 1983) · Short «Su pantalla mostró 5 misiles nucleares… y no avisó»
+- Clips (Pexels): 5523891 luz roja intermitente en la oscuridad (Mohammed Abdul Khaliq); 10942670 Plaza Roja nevada (Arseniy Kulik); 18866694 pasillo oscuro con lámparas (Rafael Fernanz); 20349219 Tierra de noche desde el espacio (Iceberg San); 6976215 televisor viejo sin señal (KoolShooters); 5097124 interior de buque con escotillas (Mila Fedorova); 12279768 nubes vistas desde arriba (Altaf Shah); 12278380 sol sobre las nubes (Altaf Shah); 6549528 cajones de fichero de biblioteca (Tima Miroshnichenko).
+- Animaciones SVG: pantalla de radar CRT con barrido verde y 5 puntos rojos (gancho), mapa esquemático EE.UU.→URSS con 5 trayectorias y contador «MISILES: 1→5», teléfono rojo que suena, lluvia de misiles vs. 5 misiles «¿SOLO 5?», satélite Oko + sol + nube con reflejo «REFLEJO = "MISIL"», carpeta con tachones negros y sello «SECRETO».
+- Tarjetas: gancho «5 MISILES / NUCLEARES / …Y NO AVISÓ», fecha «UNIÓN SOVIÉTICA 26 SEP 1983», «BÚNKER SECRETO · AL SUR DE MOSCÚ · MEDIANOCHE», ficha «OFICIAL DE GUARDIA STANISLAV PETROV TENIENTE CORONEL», «¡ALARMA! ATAQUE DETECTADO» con lavado rojo, «SU DEBER: AVISAR», banda «☢ RESPUESTA NUCLEAR», «PERO ALGO NO CUADRABA», «ATAQUE REAL: UNA LLUVIA», «RADARES DE TIERRA 0 MISILES», informe «ALERTA DE ATAQUE · SERPUJOV-15» con sello «FALSA ALARMA», «TENÍA RAZÓN», «SU PREMIO: NINGUNO», «+10 AÑOS», final «¿TÚ HABRÍAS AVISADO? / SÍGUEME →».
+- Paleta: negro búnker, verde fósforo #3dff8b, rojo alarma, amarillo #ffc629; fuentes Oswald, Montserrat, Space Mono; líneas de escaneo CRT.
+- Portada Canva: «NO AVISÓ / 5 MISILES · 1983» con radar verde y luz roja (salió en 1280x720).
+- Bloqueado hasta el 2026-12-02 (no repetir clips, animaciones ni tema Guerra Fría/nuclear en el siguiente Short).
