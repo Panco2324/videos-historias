@@ -47,3 +47,6 @@ Las rutas internas de los scripts apuntan a /home/claude/largo: crea esa carpeta
 - Canva: el plan se quedó sin créditos al pedir la segunda miniatura. Revisa bien la primera; si trae un error de
   ortografía, se puede corregir el texto con PIL + fuente Anton (/usr/share/fonts/truetype/google-fonts/ofl/anton).
 - `add_repo` no estuvo disponible en esta ejecución; el clon de la rama `videos` funcionó igual en /home/claude/vh.
+- CRÉDITOS DE VOZ: cada `vidiq_voiceover_generate` redondea hacia arriba por cada 1.000 caracteres. Nueve llamadas de
+  ~1.100 caracteres costaron 448 créditos (casi el doble). Usa UNA llamada con `scriptLines` (un elemento por capítulo):
+  se cobra por el total combinado (~9.500 caracteres ≈ 280 créditos) y devuelve un audio por línea.
