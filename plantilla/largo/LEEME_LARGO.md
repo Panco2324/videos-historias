@@ -36,3 +36,14 @@ Las rutas internas de los scripts apuntan a /home/claude/largo: crea esa carpeta
 - Datos: nada inventado en pantalla (cifras, textos de periódicos, telegramas). Si una tarjeta resume un
   mensaje, que diga «resumen». Solo detalles confirmados en al menos 2 fuentes.
 - Clips: evita imágenes claramente modernas para hechos históricos (tanques de guerras actuales, autos modernos).
+
+## Lecciones del segundo largo (Onoda, nov 2026)
+- `gen_largo_ejemplo_onoda.py` trae `C.cuts`: lista de (id_clip, momento_ancla) por capítulo para que cada clip aparezca
+  cuando el narrador lo menciona; el repartidor respeta la duración real de cada clip (normaliza con `-t 40`, no 20)
+  y avisa con «AVISO clip corto». Muchos clips de Pexels duran 5–10 s: busca 8–10 por capítulo o revisa los avisos.
+- Mira cada clip antes de usarlo (hoja de contacto con un cuadro por clip): salieron clips con texto bíblico en inglés,
+  calles con neón moderno y gente con celular. Descártalos.
+- La silueta con «?» debe ser clara (papel), no negra: sobre fondo oscuro no se ve.
+- Canva: el plan se quedó sin créditos al pedir la segunda miniatura. Revisa bien la primera; si trae un error de
+  ortografía, se puede corregir el texto con PIL + fuente Anton (/usr/share/fonts/truetype/google-fonts/ofl/anton).
+- `add_repo` no estuvo disponible en esta ejecución; el clon de la rama `videos` funcionó igual en /home/claude/vh.
